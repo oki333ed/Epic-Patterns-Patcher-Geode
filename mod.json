@@ -1,0 +1,20 @@
+{
+	"geode": "4.6.3",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "user95401.epic_patterns_patcher",
+	"name": "Epic Patterns Patcher",
+	"version": "v1.0.0",
+	"developer": "user95401",
+	"description": "Slomal kod user95401 na Geode.",
+	"early-load": true,
+	"links": {
+    	"community": "https://discord.gg/6SxAbk3bTA",
+    	"homepage": "https://t.me/user95401_channel",
+    	"source": "https://github.com/oki333ed/Epic-Patterns-Patcher-Geode"
+  }
+}
