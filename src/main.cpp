@@ -1,7 +1,7 @@
 #include <Geode/Geode.hpp>
 #include <Geode/modify/CCLabelBMFont.hpp>
 #include <Geode/modify/CCScene.hpp>
-#include <fstream>s
+#include <fstream>
 #include <vector>
 #include <filesystem>
 
